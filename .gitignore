@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+.env/
+
+# Poetry
+poetry.lock
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dylib
+*.dll
+
+# Logs
+*.log
+
+# Alembic
+alembic/versions/__pycache__/
+
+# Local SQLite db
+chatbot.db
